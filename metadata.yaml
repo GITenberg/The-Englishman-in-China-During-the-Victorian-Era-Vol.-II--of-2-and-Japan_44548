@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41844'
     url: http://www.gutenberg.org/2009/agents/41844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44548#The-Englishman-in-China-During-the-Victorian-Era-Vol.-II--of-2-and-Japan
 gutenberg_issued: '2013-12-31'
 gutenberg_type: Text
 identifiers:
